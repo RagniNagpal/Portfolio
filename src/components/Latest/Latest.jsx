@@ -56,6 +56,8 @@ const Latest = () => {
           <div className="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-white border-4 border-orange-500 rounded-full top-1/2 -translate-y-1/2 z-20"></div>
         </div>
       </div>
+
+      
     </section>
   );
 };

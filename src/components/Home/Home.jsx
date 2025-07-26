@@ -5,7 +5,9 @@ import { FaGithub } from "react-icons/fa";
 import me from '../Me.jpg';
 import About from '../About/About';
 import Navbar from '../Navbar/Navbar';
-import videoBg from '../video.mp4'; // make sure the video exists in this path
+import videoBg from '../video.mp4'; 
+import logo from '../logo_transparent.png';
+
 
 const Home = () => {
   const [showAbout, setshowAbout] = useState(false);
